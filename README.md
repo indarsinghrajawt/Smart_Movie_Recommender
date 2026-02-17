@@ -35,13 +35,13 @@ Features
 
 Tech Stack
 
-Python
-Streamlit
-TMDB API
-Requests
-Python-dotenv
-GitHub
-Streamlit Community Cloud
+- Python
+- Streamlit
+- TMDB API
+- Requests
+- Python-dotenv
+- GitHub
+- Streamlit Community Cloud
 
 ------------------------------------------------------------
 
@@ -49,10 +49,10 @@ Project Structure
 
 Smart_Movie_Recommender
 
-app.py
-requirements.txt
-README.md
-.gitignore
+- app.py
+- requirements.txt
+- README.md
+- .gitignore
 
 ------------------------------------------------------------
 
